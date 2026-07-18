@@ -1,6 +1,5 @@
 # 🧠 Brain Tumor MRI Classification using Machine Learning
 
----
 
 # 📌 Overview
 
