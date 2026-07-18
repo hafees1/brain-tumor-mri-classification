@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor MRI Classification using Machine Learning
 
-![Project Image](images/projectimage.png)
+![Project Image](images/readme.png)
 
 
 ---
