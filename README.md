@@ -1,6 +1,7 @@
 # 🧠 Brain Tumor MRI Classification using Machine Learning
 
-**Project Image**
+![Project Image](images/projectimage.png)
+
 
 ---
 
@@ -92,26 +93,6 @@ The following preprocessing steps were applied before model training:
 - Standardized pixel values using StandardScaler
 - Applied Principal Component Analysis (PCA) for dimensionality reduction
 - Prevented data leakage by fitting preprocessing steps only on the training data
-
----
-
-# 🤖 Machine Learning Model
-
-The following classification algorithm was trained and evaluated:
-
-- Support Vector Machine (SVM)
-
----
-
-# 📈 Model Evaluation
-
-The model was evaluated using:
-
-- Accuracy Score
-- Classification Report
-- Confusion Matrix
-
-The performance metrics provide insight into the classifier's ability to distinguish between the four brain tumor categories.
 
 ---
 
